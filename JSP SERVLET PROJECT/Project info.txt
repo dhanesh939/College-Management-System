@@ -1,0 +1,2 @@
+1.Lambtoncollege is the project created in netbeans.
+2.database folder contains the SQL file.
